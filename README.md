@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Web+Developer" alt="Typing SVG" />
 </p>
-<h3 align="justify">I'm a passionate **Computer Science Engineer**, actively learning and building in Web Development (React, MERN stack) and AI/ML. With a strong foundation in C++ and competitive programming, I'm continuously working on real-world projects, improving my skills, and striving to lead impactful tech solutions.</h3>
+<h3 align="justify">I'm a passionate **Computer Science Engineer**, actively learning and building in Web Development (React, MERN stack) and AI/ML. With a strong foundation in C++ and competitive programming, I'm continuously working on real-world projects, improving my skills.</h3>
 
 
 
 
 ---
 
+## 🌟About Me
 - 🎓 B.Tech CSE Student at **Shri Ramdeobaba College of Engineering and Management**, Nagpur  
-- 💻 I build full-stack apps, AI models, and explore blockchain technologies  
-- 🌱 Currently diving deeper into **Machine Learning**, **Deep Learning**, and **MERN stack**  
+- 🎯 Passionate about developing efficient & scalable solutions.
+- 💻 Currently diving deeper into **Machine Learning**, **Deep Learning**, and **MERN stack**  
 - 👨‍💻 Active on LeetCode, CodeChef & HackerRank  
 - 📫 Reach me at: **harshdakhare1@gmail.com**
 
