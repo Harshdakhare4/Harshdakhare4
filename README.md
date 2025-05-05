@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="justify">I'm a passionate Computer Science Engineer, actively learning and building in Web Development (React , MERN stack) and AI/ML. With a strong foundation in C++ and competitive programming, I'm continuously working on real-world projects, improving my skills.</h3>
 
----
+
 
 ## 🌟About Me
  🎓 B.Tech CSE Student at **Shri Ramdeobaba College of Engineering and Management**, Nagpur  
