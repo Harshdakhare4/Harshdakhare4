@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ## 🌟 About Me
 
-- 📚 B.Tech CSE Student at **Shri Ramdeobaba College of Engineering and Management**, Nagpur  
-- 🌟 Passionate about developing efficient & scalable solutions  
-- 💻 Currently diving deeper into **Machine Learning**, **Deep Learning**, and **MERN stack**  
-- 👨‍💻 Active on LeetCode, CodeChef & HackerRank  
-- 📧 Reach me at: **harshdakhare4@gmail.com**
+📚 B.Tech CSE Student at **Shri Ramdeobaba College of Engineering and Management**, Nagpur  
+🔭 Passionate about developing efficient & scalable solutions  
+💻 Currently diving deeper into **Machine Learning**, **Deep Learning**, and **MERN stack**  
+👨‍💻 Active on LeetCode, CodeChef & HackerRank  
+📧 Reach me at: **hmdakhare1@gmail.com**
 
 
 
