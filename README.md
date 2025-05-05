@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Harsh Dakhare</h1>
-<h3 align="center">A passionate B.Tech student at Shri Ramdeobaba College of Engineering and Management, Nagpur</h3>
+<h3 align="center">I'm a passionate Computer Science Engineer, actively learning and building in Web Development (React, MERN stack) and AI/ML. With a strong foundation in C++ and competitive programming, I'm continuously working on real-world projects, improving my skills, and striving to lead impactful tech solutions.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer" alt="Typing SVG" />
