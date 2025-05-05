@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate B.Tech student at Shri Ramdeobaba College of Engineering and Management, Nagpur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI+%7C+DSA+Enthusiast;C%2B%2B+%7C+React+%7C+Node.js+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
+
 
 ---
 
