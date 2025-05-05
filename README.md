@@ -106,6 +106,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Harshdakhare4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdakhare4&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hmdakhare1?theme=tokyonight&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats"/>
+</p>
 
 ---
 
