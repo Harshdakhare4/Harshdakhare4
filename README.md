@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Harsh Dakhare
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Web+Developer+%7C+AI%2FML+Learner;C%2B%2B+%7C+MERN+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Web+Developer" alt="Typing SVG" />
 </p>
 </h1>
 
