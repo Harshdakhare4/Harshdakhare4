@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 **Harshdakhare4/Harshdakhare4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Harsh Dakhare</h1>
+<h1 align="center">Hi 👋, I'm Harsh Dakhare
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Web+Developer+%7C+AI%2FML+Learner;C%2B%2B+%7C+MERN+Stack+Enthusiast" alt="Typing SVG" />
 </p>
+</h1>
+
 
 <h3 align="justify">I'm an aspiring Computer Science Engineer, actively learning and building in Web Development (React, MERN stack) and AI/ML. With a growing foundation in C++ and competitive programming, I'm continuously working on real-world projects, improving my skills, and striving to make an impact through technology.</h3>
 
