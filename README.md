@@ -108,9 +108,7 @@ Here are some ideas to get you started:
 </p>
 ## 🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hmdakhare1?theme=tokyonight&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats"/>
-</p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/hmdakhare1?theme=tokyonight&font=Baloo+Bhai" alt="LeetCode Stats"/> </p>
 
 ---
 
