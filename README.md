@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++]([[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://i.redd.it/31b2ii8hchi31.jpg)](https://img.icons8.com/?size=100&id=40669&format=png&color=000000))
+![C++]("C:\Users\hmdak\Downloads\icons8-c++-96.png")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Harshdakhare4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdakhare4&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<img src="https://leetcard.jacoblin.cool/Harshdakhare4?theme=dark&font=baloo&ext=activity" width="400"/>
 
 ---
 
