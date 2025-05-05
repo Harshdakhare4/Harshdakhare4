@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💻 I build full-stack apps, AI models, and explore blockchain technologies  
 - 🌱 Currently diving deeper into **Machine Learning**, **Deep Learning**, and **MERN stack**  
 - 👨‍💻 Active on LeetCode, CodeChef & HackerRank  
-- 📫 Reach me at: **harshdakhare4@gmail.com**
+- 📫 Reach me at: **harshdakhare1@gmail.com**
 
 ---
 
