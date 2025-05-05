@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="justify">I'm an aspiring Computer Science Engineer, actively learning and building in Web Development (React, MERN stack) and AI/ML. With a growing foundation in C++ and competitive programming, I'm continuously working on real-world projects, improving my skills, and striving to make an impact through technology.</h3>
 
----
+
 
 ## 🌟 About Me
 
