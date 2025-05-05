@@ -70,9 +70,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="120" height="60"/>
   &nbsp;
-  <div style="background-color: white; width: 120px; height: 60px; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="100" />
-</div>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
   &nbsp;
